@@ -2,6 +2,8 @@
 
 An interactive app to explore the evolution of LLMs — from basic queries to agentic Retrieval-Augmented Generation (RAG) integrations.
 
+![LLM Evolution streamlit app screenshot](https://i.imgur.com/ivJyxez.jpeg)
+
 ## Overview
 
 LLM Evolution Explorer demonstrates the progression of Large Language Models (LLMs) from simple query responses to advanced agentic RAG-based integrations, offering users a hands-on experience with different LLM setups.
